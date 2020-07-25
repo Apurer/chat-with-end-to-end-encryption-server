@@ -1,2 +1,2 @@
 # end-to-end-encrypted-chat-server
-Server for end to end encrypted chat app
+Server for chat app with end to end encryption 
